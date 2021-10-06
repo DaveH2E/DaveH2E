@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DaveH2E
+- 👀 I’m interested in Software and Data Science for renewable energy systems
+- 🌱 I’m currently learning to write decent C code for ECUs
